@@ -37,9 +37,9 @@
 - **Convenient Upload Methods** — Drag & drop, click to select, or paste images with Ctrl+V / ⌘V.
 - **Supported Formats** — Input: PNG, JPG, JPEG, WebP (up to 10MB per file).
 
-## Supported Interface Languages (Partial List)
+## Supported Interface Languages
 
-Simplified Chinese, English, Japanese, Arabic, Spanish, Russian, German, French, and more.
+English, Japanese, Arabic, Spanish, Simplified Chinese, Russian, German, French.
 
 ## One-Sentence Summary  
 **FreeAIOCR is currently the most developer- and researcher-friendly free online AI OCR tool — it doesn't just recognize characters; it truly understands code, formulas, and diagrams, delivering directly usable, production-ready digital content.**
